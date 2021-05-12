@@ -1,0 +1,33 @@
+{
+  "name": "expensetracker",
+  "version": "1.0.0",
+  "description": "Backend for expenese tracker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server",
+    "client": "npm start --prefix frontend/my-app",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nappyu/ExpenseTracker.git"
+  },
+  "author": "Toji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nappyu/ExpenseTracker/issues"
+  },
+  "homepage": "https://github.com/nappyu/ExpenseTracker#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.8",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "concurrently": "^6.1.0",
+    "nodemon": "^2.0.7"
+  }
+}
