@@ -13,3 +13,4 @@ go back to the main directory and run "npm run dev"
 
 The application, backend server, and database should all be running now enjoy!
 
+![alt text](https://github.com/nappyu/ExpenseTracker/blob/main/ExpenseTrackerWebApp.png)
