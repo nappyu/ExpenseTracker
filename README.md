@@ -15,4 +15,6 @@ The application, backend server, and database should all be running now enjoy!
 
 This application uses React as the frontend, Node.js in the backend, and mongoDB as the database.
 
+side note- Currently uses my own database normally would not commit credentials to a public repo
+
 ![alt text](https://github.com/nappyu/ExpenseTracker/blob/main/ExpenseTrackerWebApp.png)
