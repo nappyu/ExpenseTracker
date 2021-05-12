@@ -13,4 +13,6 @@ go back to the main directory and run "npm run dev"
 
 The application, backend server, and database should all be running now enjoy!
 
+This application uses React as the frontend, Node.js in the backend, and mongoDB as the database.
+
 ![alt text](https://github.com/nappyu/ExpenseTracker/blob/main/ExpenseTrackerWebApp.png)
